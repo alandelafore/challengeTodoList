@@ -1,0 +1,12 @@
+C:\Users\alan.baral\source\repos\ChallengeTodo\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\alan.baral\source\repos\ChallengeTodo\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan.baral\source\repos\ChallengeTodo\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\alan.baral\source\repos\ChallengeTodo\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\alan.baral\source\repos\ChallengeTodo\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\alan.baral\source\repos\ChallengeTodo\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\alan.baral\source\repos\ChallengeTodo\Application\bin\Debug\net6.0\Application.dll
+C:\Users\alan.baral\source\repos\ChallengeTodo\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\alan.baral\source\repos\ChallengeTodo\Application\obj\Debug\net6.0\Application.dll
+C:\Users\alan.baral\source\repos\ChallengeTodo\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\alan.baral\source\repos\ChallengeTodo\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\alan.baral\source\repos\ChallengeTodo\Application\obj\Debug\net6.0\ref\Application.dll
